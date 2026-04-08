@@ -13,12 +13,12 @@ Generates AI images, converts them into videos with music, and uploads them to Y
 ---
 
 ## 📁 Project Structure
-project/
-├── VIDEOS/ # Generated videos
-├── MUSIC/ # Background music (.mp3 files)
-├── client_secret.json # Google OAuth credentials
-├── token.pickle # Saved login session (auto-generated)
-├── main.py # Main script
+Auto-AI-Video-Creaiton/
+- ├── VIDEOS/ # Generated videos
+- ├── MUSIC/ # Background music (.mp3 files)
+- ├── client_secret.json # Google OAuth credentials
+- ├── token.pickle # Saved login session (auto-generated)
+- ├── main.py # Main script
 
 
 ---
